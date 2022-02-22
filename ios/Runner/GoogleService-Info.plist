@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>671031115878-6i8btuj3dl29qi5ie6kfb98rbqehi1ct.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.671031115878-6i8btuj3dl29qi5ie6kfb98rbqehi1ct</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>671031115878-r3tdon753mu1b6on8sr5nv6u3ihanabe.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUEpdtt9ZbpTXpk1lUlvkRV4zz5Yx5gXA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>671031115878</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zubaidalabs.farmer</string>
+	<key>PROJECT_ID</key>
+	<string>thefarmer</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thefarmer.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:671031115878:ios:bfc0d4f9b2f9c9743aada7</string>
+</dict>
+</plist>
